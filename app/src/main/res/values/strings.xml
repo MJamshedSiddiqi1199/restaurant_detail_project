@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">restaurant_detail_project</string>
+    <string name="add_restaurant">Add Restaurant</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="location">Location</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="description">Description</string>
+    <string name="rating">Rating</string>
 </resources>
